@@ -1,0 +1,15 @@
+{
+  "name": "browserslist-config-design-italia",
+  "version": "1.0.0",
+  "description": "Configurazione condivisa Browserlist secondo le Linee Guida di Design per i servizi web della Pubblica Amministrazione",
+  "main": "index.js",
+  "author": "Marco Liberati <dej611@gmail.com>",
+  "license": "BSD-3-Clause",
+  "private": false,
+  "devDependencies": {
+    "browserslist": "^4.19.1"
+  },
+  "scripts": {
+    "test": "node test"
+  }
+}

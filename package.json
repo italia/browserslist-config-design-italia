@@ -6,6 +6,17 @@
   "author": "Marco Liberati <dej611@gmail.com>",
   "license": "BSD-3-Clause",
   "private": false,
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/italia/browserslist-config-design-italia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/italia/browserslist-config-design-italia/issues"
+  },
+  "homepage": "https://github.com/italia/browserslist-config-design-italia#readme",
   "devDependencies": {
     "browserslist": "^4.19.1"
   },

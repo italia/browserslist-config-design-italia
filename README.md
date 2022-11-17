@@ -1,6 +1,6 @@
 # browserslist-config-design-italia
 
-Configurazione condivisa di [Browserslist](https://github.com/ai/browserslist) secondo le [Linee Guida di Design per i servizi web della Pubblica Amministrazione, sezione 6.3.1.2.1. Supporto browser](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/2020.1/doc/user-interface/lo-sviluppo-di-un-interfaccia-e-i-web-kit.html#strumenti).
+Configurazione condivisa di [Browserslist](https://github.com/ai/browserslist) secondo il [Manuale operativo di design](https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/versione-corrente/doc/esperienza-utente/lo-sviluppo-della-interfaccia-utente.html#supporto-browser).
 
 ```sh
 yarn add --dev browserslist-config-design-italia

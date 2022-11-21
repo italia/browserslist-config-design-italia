@@ -1,4 +1,4 @@
 module.exports = [
     "defaults",
-    ">= 0.5% in IT"
+    "> 1% in IT"
 ];

@@ -22,5 +22,6 @@
   },
   "scripts": {
     "test": "node test"
-  }
+  },
+  "dependencies": {}
 }

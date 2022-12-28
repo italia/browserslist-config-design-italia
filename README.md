@@ -1,5 +1,12 @@
 # browserslist-config-design-italia
 
+[![Versione](https://img.shields.io/npm/v/browserslist-config-design-italia.svg?logo=npm)](https://github.com/italia/browserslist-config-design-italia/releases)
+[![GitHub issues](https://img.shields.io/github/issues/italia/browserslist-config-design-italia.svg)](https://github.com/italia/browserslist-config-design-italia/issues)
+[![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7VPAUVB3/)
+[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
+
+_🇬🇧 [English version](README.EN.md)_
+
 Configurazione condivisa di [Browserslist](https://github.com/ai/browserslist) secondo il [Manuale operativo di design](https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/versione-corrente/doc/esperienza-utente/lo-sviluppo-della-interfaccia-utente.html#supporto-browser).
 
 ```sh
